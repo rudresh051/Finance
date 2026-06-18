@@ -72,3 +72,64 @@ Purchase order format -
 ![alt text](image-11.png)
 
 * Preventive control is far more better than a detective control
+
+## 3. GOODS GRN
+
+* **Before dispatch of Goods**
+  * Vendor send Advance Shipping Note / Pro forma Invoice.
+  * Purchase Dept. verifies details & then vendor
+dispatched goods with Tax invoice.
+
+> Just rectivy this and then send
+
+### Goods Gate Entry Note
+
+![alt text](image-12.png)
+
+* Storage department get only goods and along with goods delivery challan
+  * Some org strictly follow the rule that this security person should not have the access to the invoice or the rate and amount details of the goods. So you should only deal only with delivery challans
+
+
+![alt text](image-13.png)
+
+Org can also maintain in excel format also like this  
+
+![alt text](image-14.png)
+
+![alt text](image-15.png)
+
+* There can be cases where we have received gods but there is no PO(purchase requisition) number
+
+* Stores will intimate QC(quality check) department
+
+![alt text](image-16.png)
+
+![alt text](image-17.png)
+
+![alt text](image-18.png)
+
+![alt text](image-19.png)
+
+* It is advisable to hide the rate and amount so that it is not visible to storage and QC department
+
+* Goods...GRN...Rejected by QC
+
+![alt text](image-20.png)
+
+after rejection it will be transferred to account department
+
+![alt text](image-21.png)
+
+every Goods receipt note must have Gate entry note
+
+## Goods... Bill Booking
+
+* These documents should be given to accounts department
+
+![alt text](image-22.png)
+
+> So now accounts department will have either all these documents in physical form or in electronic form in ERP system. So like PO, PO may not be transferred to purchase from purchase department physically. In case of say SAP or Oracle ERP systems these are available in the system only. So that is why either it can be in physical form or electronic form. Oualitu Dont
+
+* Goods - Invoice
+
+![alt text](image-23.png)
